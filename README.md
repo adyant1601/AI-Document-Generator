@@ -5,3 +5,6 @@ documents such as **resumes**, **reports**, **PPTs**, and **emails** from user p
 specific outputs. Designed a modular pipeline for **prompt engineering**, model inference, and document 
 formatting to ensure high-quality generation. Built an interactive **Streamlit-based UI** and integrated a 
 **Flask** backend for local deployment via **pyngrok**, enabling seamless user interaction.
+
+
+![output1](https://github.com/user-attachments/assets/fa2bbeac-8382-4ceb-9dbd-7dfcb2f5d81f)
